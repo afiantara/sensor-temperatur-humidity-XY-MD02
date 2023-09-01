@@ -1,0 +1,1 @@
+# sensor-temperatur-humidity-XY-MD02
